@@ -2,6 +2,9 @@
 # Stage 0. Self-Study
 ## General
 - [X] Git Basics
+  name (at least) one thing that was new to you
+  name (at least) one thing that surprised you
+  name (at least) one thing you intend to use in the future
   #### What's new?
   1. Find out that Git is **distributed version control system**
   2. There are exists next three areas: **working directory** - where all current local files, than after `git add` they come to **staging area** and after `git commit` they appear at the **repo**.
@@ -17,7 +20,10 @@
   8. `git diff` - shows changes in a local files before commiting.
   9. For making undo **after** last incorrect commit make `git commit --amend`.
   10. `git reset` is good for local repo - erase commit/ `git revert` is nice for remote repo - make a copy of commit with opposite state.
-  
+  #### What's surprised?
+  1. Definitely amount of different approaches to move commits between branches.
+  #### What's intend to use in the future?
+  1. All mentioned commands ;)
 - [ ] Linux CLI and Networking
 - [ ] VCS (hello gitty), GitHub and Collaboration
 ## Front-End Basics
