@@ -2,9 +2,7 @@
 # Stage 0. Self-Study
 ## General
 - [X] Git Basics
-  name (at least) one thing that was new to you
-  name (at least) one thing that surprised you
-  name (at least) one thing you intend to use in the future
+
   #### What's new?
   1. Find out that Git is **distributed version control system**
   2. There are exists next three areas: **working directory** - where all current local files, than after `git add` they come to **staging area** and after `git commit` they appear at the **repo**.
@@ -24,6 +22,9 @@
   1. Definitely amount of different approaches to move commits between branches.
   #### What's intend to use in the future?
   1. All mentioned commands ;)
+  
+  [Lesson screenshots](https://github.com/AntonGluschuk/kottans-frontend/tree/main/git_basics)
+  
 - [ ] Linux CLI and Networking
 - [ ] VCS (hello gitty), GitHub and Collaboration
 ## Front-End Basics
