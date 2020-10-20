@@ -56,7 +56,7 @@
 2. First time worked with change file permission command: `chmod` + `ugo-rwx` + `<filename>` where **u** stands for user, **g** - group of users, **o** - other/world and **r** means - read, **w** - write, **x** - execute.
 3. Also opened for myself different wildcards like `*` - stands for all files and `?` - means one character.
 4. First [article](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177) filled in knowledge about request verbs: **GET** - fetch an existing resource, **POST** - create a new resource, **PUT** - update an existing resource, **DELETE** - delete existing resource - all of them are most popular requests.
-5. In second [article] (https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155) I got my feet wet of understanding:
+5. In second [article](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155) I got my feet wet of understanding:
 
   - **Authentication** - user doing request; server respond with a `401 (Unauthorized)` and provides info about authorization through the `WWW-Authenticate` header; than user send new request with authorization data including ` Authorization` header.
   - **HTTP Caching** - optimized process of obtaining resources from the web cache bypassing the request to the server, cache helps save time, cost and bandwidth, as well as provide an improved experience on the web.
