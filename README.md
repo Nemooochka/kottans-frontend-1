@@ -71,3 +71,11 @@ Surprized the amount of headers and different status codes and internal structur
 For sure I will try to do requests by using some public API to learn everything on a practice about different server responses.
 
 [Lesson screenshots](https://github.com/AntonGluschuk/kottans-frontend/tree/main/task_linux_cli)
+
+## Git Collaboration
+
+#### What's new?
+#### What's surprised?
+#### What's intend to use in the future?
+
+[Lesson screenshots](https://github.com/AntonGluschuk/kottans-frontend/tree/main/task_linux_cli)
