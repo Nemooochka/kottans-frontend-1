@@ -3,7 +3,7 @@
 ## General
 - [X] Git Basics
 - [X] Linux CLI and Networking
-- [ ] VCS (hello gitty), GitHub and Collaboration
+- [X] VCS (hello gitty), GitHub and Collaboration
 ## Front-End Basics
 - [ ] Intro to HTML & CSS
 - [ ] Responsive Web Design
@@ -75,7 +75,19 @@ For sure I will try to do requests by using some public API to learn everything 
 ## Git Collaboration
 
 #### What's new?
+
+1. Understanding how to work with remote repositories, how to fork, make changes, push them to the forked repo and make **Pull request**.
+2. Clarify for myself that `git pull` are a combined command with `git fetch` and `git merge` commands.
+3. Find out about the HEAD pointer which always points to the **branch** with most recent commit in the working tree and it's can be detached - for example:
+  - Before detaching HEAD point to: HEAD -> master -> SHA;
+  - After detaching HEAD point to HEAD -> SHA;
+
 #### What's surprised?
+
+1. Suprized how flexible `cherry-pick` command - it's straightforward way of saying that you would like to copy a series of commits to any of the existed branches you want.
+
 #### What's intend to use in the future?
 
-[Lesson screenshots](https://github.com/AntonGluschuk/kottans-frontend/tree/main/task_linux_cli)
+1. I would try to work with `git push` and `git pull` and practice them with arguments <source>:<destination> for deeper understanding.
+
+[Lesson screenshots](https://github.com/AntonGluschuk/kottans-frontend/tree/main/task_git_collaboration)
